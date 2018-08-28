@@ -4,7 +4,7 @@
 
 Ph.D candidate | Cornell University
 
-Computer graphics | Computational acoustics | Acoustic signal processing | Psychoacoustics
+Computer graphics | Computational acoustics | signal processing | Psychoacoustics
 
 Mentors I have been working with: 
  [Steve Marschner](https://www.cs.cornell.edu/~srm/) (Cornell University)
