@@ -18,7 +18,7 @@ Mentors I have been working with:
 
 ------
 
-<img align="left" width="200" height="100" src="./figure/SASIA2018.png">
+<img align="left" width="200" height="100" src="img_SASIA2018.png">
 
 **Ambient sound propagation**\
  *SIGGRAPH Asia 2018*\
