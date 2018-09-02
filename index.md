@@ -1,4 +1,10 @@
-# Zechen Zhang
+---
+layout: page
+title: Zechen Zhang
+<!--tagline: Easy websites with GitHub Pages-->
+<!--description: Minimal tutorial on making a simple website with GitHub Pages-->
+
+---
 
 *zz335 at cornell.edu*
 
@@ -16,7 +22,7 @@ Mentors I have been working with:
 [Google scholar](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F7-xJ-lFabohOk8iR_vInc7314F38GcgjprXTWMlz5Qu0eqU3JYjJY22_f0SQln2eVbm7cqvWmnW6qqBqyoQLDnvhKmTA)
 | [LinkedIn](https://www.linkedin.com/in/zechen-zhang-836a6b58/)
 
-------
+---
 
 <img align="left" width="200" height="100" src="img_SASIA2018.png">
 
