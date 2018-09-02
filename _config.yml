@@ -10,7 +10,7 @@ highlighter: rouge
 #
 title : 
 author :
-  name : nil
+  name : 
   email : nil
   github : nil
   twitter : nil
