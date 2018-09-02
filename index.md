@@ -40,6 +40,6 @@ Mentors I have been working with:
 
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 
-[Project page](https://zechenz.github.io)
-
+[Project page](https://zechenz.github.io) 
+| 
 [Headphone demo](https://zechenz.github.io)
