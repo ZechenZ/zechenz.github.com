@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Zechen Zhang
 <!--tagline: Easy websites with GitHub Pages-->
 <!--description: Minimal tutorial on making a simple website with GitHub Pages-->
-
----
 
 *zz335 at cornell.edu*
 
@@ -24,9 +22,12 @@ Mentors I have been working with: \
 
 ---
 
-**Ambient sound propagation**\
- *SIGGRAPH Asia 2018*\
+**Ambient sound propagation**
+
+ *SIGGRAPH Asia 2018*
+
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 
-[Project page](https://zechenz.github.io)\
+[Project page](https://zechenz.github.io)
+
 [Headphone demo](https://zechenz.github.io)
