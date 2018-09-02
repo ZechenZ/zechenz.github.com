@@ -9,9 +9,17 @@ Zechen Zhang
 
 *zz335 at cornell.edu*
 
-Ph.D candidate | Cornell University
+Ph.D candidate 
+| 
+Cornell University
 
-Computer graphics | Computational acoustics | signal processing | Psychoacoustics
+Computer graphics 
+| 
+Computational acoustics 
+| 
+Signal processing 
+| 
+Psychoacoustics
 
 Mentors I have been working with:
 
