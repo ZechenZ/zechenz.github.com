@@ -5,6 +5,7 @@ title:
 <!--description: Minimal tutorial on making a simple website with GitHub Pages-->
 
 ---
+Zechen Zhang
 
 *zz335 at cornell.edu*
 
