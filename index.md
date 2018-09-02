@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Zechen Zhang
+title: 
 <!--tagline: Easy websites with GitHub Pages-->
 <!--description: Minimal tutorial on making a simple website with GitHub Pages-->
 
@@ -12,7 +12,7 @@ Ph.D candidate | Cornell University
 
 Computer graphics | Computational acoustics | signal processing | Psychoacoustics
 
-Mentors I have been working with: 
+Mentors I have been working with: \
  [Steve Marschner](https://www.cs.cornell.edu/~srm/) (Cornell University)
  | 
  [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/) (MSR) 
@@ -24,10 +24,9 @@ Mentors I have been working with:
 
 ---
 
-<img align="left" width="200" height="100" src="img_SASIA2018.png">
-
 **Ambient sound propagation**\
  *SIGGRAPH Asia 2018*\
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 
-[Project page](https://zechenz.github.io) | [Headphone demo](https://zechenz.github.io)
+[Project page](https://zechenz.github.io)\
+[Headphone demo](https://zechenz.github.io)
