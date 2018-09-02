@@ -18,7 +18,10 @@ Mentors I have been working with:
 
 ------
 
-<!---
-*   test    
-    test
---->
+<img align="left" width="200" height="100" src="figure/SASIA2018.png">
+
+**Ambient sound propagation**\
+ *SIGGRAPH Asia 2018*\
+Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
+
+[Project page](https://zechenz.github.io) | [Headphone demo](https://zechenz.github.io)
