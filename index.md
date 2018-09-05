@@ -39,7 +39,7 @@ Mentors I have been working with:
  *SIGGRAPH Asia 2018*
 
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
-
+*The salient spatial wave effects from ambient sound source are efficiently pre-computed, e.g. the spatial loudness variation and the directional cues. A customized lightweight HRTF model is used at run-time, making reproducing realistic ambient sound cues in virtual world immediately practical.*
 [Project page](https://zechenz.github.io) 
 | 
 [Headphone demo](https://zechenz.github.io)
