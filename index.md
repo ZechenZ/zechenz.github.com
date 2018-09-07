@@ -4,6 +4,8 @@ title:
 <!--tagline: Easy websites with GitHub Pages-->
 <!--description: Minimal tutorial on making a simple website with GitHub Pages-->
 
+---
+
 Zechen Zhang
 
 *zz335 at cornell.edu*
@@ -33,7 +35,7 @@ Mentors I have been working with:
 
 ---
 
-<p><img align="left" width="200" height="100" src="https://github.com/ZechenZ/zechenz.github.io/tree/master/_figure/img_SASIA2018.png"></p>
+<p><img align="left" width="200" height="100" src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG"></p>
 
 **Ambient sound propagation**
 
