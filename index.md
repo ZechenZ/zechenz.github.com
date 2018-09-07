@@ -47,6 +47,6 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 | 
 [Headphone demo](https://zechenz.github.io)
 
-![AmbientSound](https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG =400x200)
+![AmbientSound](https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/_figure/img_SASIA2018.PNG =400x200)
 
 ---
