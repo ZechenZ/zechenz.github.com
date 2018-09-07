@@ -6,7 +6,7 @@ title:
 
 ---
 
-Zechen Zhang
+## Zechen Zhang
 
 *zz335 at cornell.edu*
 
@@ -35,7 +35,7 @@ Mentors I have been working with:
 
 ---
 
-<p><img align="left" width="200" height="100" src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG"></p>
+<p><img align="left" width="400" height="200" src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG"></p>
 
 **Ambient sound propagation**
 
