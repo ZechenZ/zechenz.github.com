@@ -35,8 +35,6 @@ Mentors I have been working with:
 
 ---
 
-<p><img align="left" width="400" height="200" src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG"></p>
-
 **Ambient sound propagation**
 
  *SIGGRAPH Asia 2018*
@@ -48,3 +46,7 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 [Project page](https://zechenz.github.io) 
 | 
 [Headphone demo](https://zechenz.github.io)
+
+![_config.yml]({{ site.baseurl }}/_figure/img_SASIA2018.PNG)
+
+---
