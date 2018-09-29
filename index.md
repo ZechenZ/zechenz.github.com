@@ -37,13 +37,13 @@ Mentors I have been working with:
 
 **Ambient sound propagation**
 
- *SIGGRAPH Asia 2018*
+*ACM Transactions on Graphics (SIGGRAPH Asia 2018)*
 
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 
 *The salient spatial wave effects from ambient sound source are efficiently pre-computed and encoded, e.g. the spatial loudness variation and the directional cues. The method is immediately practical.*
 
-[Project page](https://zechenz.github.io) 
+[Paper](https://zechenz.github.io) 
 | 
 [Headphone demo](https://zechenz.github.io)
 
