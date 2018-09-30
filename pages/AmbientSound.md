@@ -11,6 +11,8 @@ description: Project webpage of ambient sound propagation
 [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), Microsoft Research  
 [Steve Marschner](https://www.cs.cornell.edu/~srm/), Cornell University  
 
+*ACM Transactions on Graphics (SIGGRAPH Asia 2018), 37(6), 2018*
+
 ---
 <img src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG" alt="teaser" width="500"/>
 
