@@ -6,10 +6,10 @@ description: Project webpage of ambient sound propagation
 
 # Ambient Sound Propagation
 
-[Zechen Zhang](zechenz.github.io), Cornell University  
-[Nikunj Raghuvanshi](www.nikunjr.com), Microsoft Research  
+[Zechen Zhang](https://zechenz.github.io), Cornell University  
+[Nikunj Raghuvanshi](https://www.nikunjr.com), Microsoft Research  
 [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), Microsoft Research  
-[Steve Marschner](www.cs.cornell.edu/~srm/), Cornell University  
+[Steve Marschner](https://www.cs.cornell.edu/~srm/), Cornell University  
 
 ---
 <img src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG" alt="teaser" width="500"/>
