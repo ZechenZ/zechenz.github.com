@@ -6,10 +6,10 @@ description: Project webpage of ambient sound propagation
 
 # Ambient Sound Propagation
 
-*[Zechen Zhang](zechenz.github.io), Cornell University*  
-*[Nikunj Raghuvanshi](www.nikunjr.com), Microsoft Research*  
-*[John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), Microsoft Research*  
-*[Steve Marschner](www.cs.cornell.edu/~srm/), Cornell University*  
+[Zechen Zhang](zechenz.github.io), Cornell University  
+[Nikunj Raghuvanshi](www.nikunjr.com), Microsoft Research  
+[John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), Microsoft Research  
+[Steve Marschner](www.cs.cornell.edu/~srm/), Cornell University  
 
 ---
 <img src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG" alt="teaser" width="500"/>
@@ -32,3 +32,12 @@ Ambient sounds arise from a massive superposition of chaotic events distributed 
 ---
 
 ## Bibtex
+
+@article{Zhang2018Ambient,  
+    title={Ambient Sound Propagation},  
+    author={Zhang, Zechen and Raghuvanshi, Nikunj and Snyder, John and Marschner, Steve},  
+    journal={ACM Trans. Graph.},  
+    volume={37},  
+    number={6},  
+    year={2018},  
+}
