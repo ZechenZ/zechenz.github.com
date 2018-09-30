@@ -21,8 +21,7 @@ Ambient sounds arise from a massive superposition of chaotic events distributed 
 
 ## Downloads
 
-[Paper]
-(http://zechenz.github.io/pages/Paper/SAsia-2018-ambient2.pdf)
+[Paper](http://zechenz.github.io/pages/Paper/SAsia-2018-ambient2.pdf)
 
 ---
 
