@@ -43,8 +43,8 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 
 *The salient spatial wave effects from ambient sound source are efficiently pre-computed and encoded, e.g. the spatial loudness variation and the directional cues. The method is immediately practical.*
 
-[Paper](https://zechenz.github.io) 
+[Project page](pages/AmbientSound.html) 
 | 
-[Headphone demo](https://zechenz.github.io)
+[Headphone demo](https://vimeo.com/292495561)
 
 <img src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG" alt="teaser" width="400"/>
