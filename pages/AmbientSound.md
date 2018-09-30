@@ -7,7 +7,7 @@ description: Project webpage of ambient sound propagation
 # Ambient Sound Propagation
 
 [Zechen Zhang](https://zechenz.github.io), Cornell University  
-[Nikunj Raghuvanshi](https://www.nikunjr.com), Microsoft Research  
+[Nikunj Raghuvanshi](http://www.nikunjr.com), Microsoft Research  
 [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/), Microsoft Research  
 [Steve Marschner](https://www.cs.cornell.edu/~srm/), Cornell University  
 
