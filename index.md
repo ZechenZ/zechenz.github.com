@@ -36,8 +36,8 @@ Mentors I have been working with:
 ---
 
 **Ambient sound propagation**  
-*ACM Transactions on Graphics (SIGGRAPH Asia 2018)*  
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
+*ACM Transactions on Graphics (SIGGRAPH Asia 2018)*  
 [Paper](http://zechenz.github.io/pages/Paper/SAsia-2018-ambient2.pdf)
 |
 [Project page](pages/AmbientSound.html) 
