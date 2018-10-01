@@ -49,4 +49,4 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 | 
 [Headphone demo](https://vimeo.com/292495561)
 
-<img src="https://raw.githubusercontent.com/ZechenZ/zechenz.github.io/master/_figure/img_SASIA2018.PNG" alt="teaser" width="400"/>
+<img src="https://raw.githubusercontent.com/zechenz/zechenz.github.io/master/_figure/img_SASIA2018.PNG" alt="teaser" width="400"/>
