@@ -39,13 +39,12 @@ Ambient sounds arise from a massive superposition of chaotic events distributed 
 ### Bibtex
 
 @article{ Zhang:2018:Ambient,  
-&nbsp; &nbsp; &nbsp; &nbsp; title={Ambient Sound Propagation},  
-&nbsp; &nbsp; &nbsp; &nbsp; author={Zhang, Zechen and Raghuvanshi, Nikunj and Snyder, John and Marschner, Steve},  
-&nbsp; &nbsp; &nbsp; &nbsp; journal={ACM Trans. Graph.},  
-&nbsp; &nbsp; &nbsp; &nbsp; volume={37},  
-&nbsp; &nbsp; &nbsp; &nbsp; number={6},  
-&nbsp; &nbsp; &nbsp; &nbsp; month={11},  
-&nbsp; &nbsp; &nbsp; &nbsp; article={184},  
-&nbsp; &nbsp; &nbsp; &nbsp; doi={https://doi.org/10.1145/3272127.3275100},  
-&nbsp; &nbsp; &nbsp; &nbsp; year={2018},  
+title={Ambient Sound Propagation},  
+author={Zhang, Zechen and Raghuvanshi, Nikunj and Snyder, John and Marschner, Steve},  
+journal={ACM Trans. Graph.},  
+number={6},  
+month={11},  
+article={184},  
+doi={https://doi.org/10.1145/3272127.3275100},  
+year={2018},  
 }
