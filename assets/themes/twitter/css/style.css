@@ -63,3 +63,27 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+  blockquote{
+    display:block;
+    background: #fff;
+    padding: 15px 20px 15px 20px;
+    margin: 0 0 20px;
+    position: relative;
+    
+    /*Font*/
+    font-family: "Times New Roman";
+    font-size: 16px;
+    line-height: 1.2;
+    color: #666;
+    text-align: justify;
+    
+    /*Borders - (Optional)*/
+    border-left: 8px solid #FF5733;
+    border-right: 0px solid #FF5733;
+    
+  }
+  
+  blockquote em{
+    font-style: italic;
+  }
