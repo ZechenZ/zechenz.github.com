@@ -34,24 +34,24 @@ blockquote{
   box-shadow: 2px 2px 15px #ccc;
 }
 
-blockquote::before{
-  content: "\201C"; /*Unicode for Left Double Quote*/
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 15px 20px 15px 20px;
+  margin: 0 0 20px;
+  position: relative;
   
   /*Font*/
-  font-family: Georgia, serif;
-  font-size: 60px;
-  font-weight: bold;
-  color: #999;
+  font-family: "Times New Roman";
+  font-size: 16px;
+  line-height: 1.2;
+  color: #666;
+  text-align: justify;
   
-  /*Positioning*/
-  position: absolute;
-  left: 10px;
-  top:5px;
-}
-
-blockquote::after{
-  /*Reset to make sure*/
-  content: "";
+  /*Borders - (Optional)*/
+  border-left: 8px solid #FF5733;
+  border-right: 0px solid #FF5733;
+  
 }
 
 blockquote a{
