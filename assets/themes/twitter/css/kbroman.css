@@ -11,6 +11,8 @@ a code {
 }
 
 blockquote{
+  padding: 0px 0px 0px 8px;
+  position: relative;
   
   /*Font*/
   font-family: "Times New Roman";
