@@ -1,5 +1,6 @@
 body {
   font-family: "Times New Roman";
+  font-size: 100%
 }
 
 /* Custom container */
@@ -36,6 +37,7 @@ body {
 .post-full .date {
   margin-bottom: 20px;
   font-weight: bold; 
+  font-family: "Times New Roman";
 }
 
 /* tag_box */
