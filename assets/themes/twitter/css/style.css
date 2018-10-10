@@ -16,11 +16,14 @@ body {
 /* posts index */
 .post > h3.title {
   position: relative;
-  padding-top: 10px; }
+  padding-top: 10px; 
+  font-family: "Times New Roman";
+}
 
 .post > h3.title span.date {
   position: absolute;
   right: 0;
+  font-family: "Times New Roman";
   font-size: 0.9em; 
 }
 
