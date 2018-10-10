@@ -1,3 +1,8 @@
+
+* {
+  font-family: "Times New Roman";
+}
+
 /* Custom container */
 .container-narrow {
   margin: 0 auto;
@@ -18,20 +23,17 @@
   position: absolute;
   right: 0;
   font-size: 0.9em; 
-  font-family: "Times New Roman";
 }
 
 .post > .more {
   margin: 10px 0;
   text-align: left; 
-  font-family: "Times New Roman";
 }
 
 /* post-full*/
 .post-full .date {
   margin-bottom: 20px;
   font-weight: bold; 
-  font-family: "Times New Roman";
 }
 
 /* tag_box */
