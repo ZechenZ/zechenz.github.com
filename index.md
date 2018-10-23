@@ -8,7 +8,7 @@ title:
 
 ## Zechen Zhang
 
-*zz335 at cornell.edu*
+zz335 at cornell dot edu
 
 Ph.D candidate 
 | 
