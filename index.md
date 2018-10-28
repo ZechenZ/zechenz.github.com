@@ -20,13 +20,7 @@ Computational acoustics
 | 
 Signal processing 
 
-Mentors I have been working with:
-
-Steve Marschner (Cornell) 
-| 
-John Snyder (MSR) 
-| 
-Nikunj Raghuvanshi (MSR)
+I am doing my PhD studies under advisorship of Steve Marschner. I also work closely with John Snyder and Nikunj Raghuvanshi at Microsoft Research, Redmond.
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F7-xJ-lFabohOk8iR_vInc7314F38GcgjprXTWMlz5Qu0eqU3JYjJY22_f0SQln2eVbm7cqvWmnW6qqBqyoQLDnvhKmTA)
 
