@@ -22,14 +22,6 @@ Signal processing
 | 
 Psychoacoustics
 
-Mentors I have been working with:
-
- [Steve Marschner](https://www.cs.cornell.edu/~srm/) (Cornell University)
- | 
- [John Snyder](https://www.microsoft.com/en-us/research/people/johnsny/) (MSR) 
- | 
- [Nikunj Raghuvanshi](http://www.nikunjr.com/) (MSR)
-
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F7-xJ-lFabohOk8iR_vInc7314F38GcgjprXTWMlz5Qu0eqU3JYjJY22_f0SQln2eVbm7cqvWmnW6qqBqyoQLDnvhKmTA)
 
 ---
