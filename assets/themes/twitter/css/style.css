@@ -1,7 +1,3 @@
-body {
-  font-family: "Times New Roman";
-  font-size: 100%
-}
 
 /* Custom container */
 .container-narrow {
@@ -18,27 +14,23 @@ body {
 .post > h3.title {
   position: relative;
   padding-top: 10px; 
-  font-family: "Times New Roman";
 }
 
 .post > h3.title span.date {
   position: absolute;
   right: 0;
   font-size: 0.9em; 
-  font-family: "Times New Roman";
 }
 
 .post > .more {
   margin: 10px 0;
   text-align: left; 
-  font-family: "Times New Roman";
 }
 
 /* post-full*/
 .post-full .date {
   margin-bottom: 20px;
   font-weight: bold; 
-  font-family: "Times New Roman";
 }
 
 /* tag_box */
