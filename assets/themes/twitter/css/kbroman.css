@@ -1,3 +1,6 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 code {
   padding: 0;
@@ -14,9 +17,6 @@ a code {
 blockquote{
   padding: 0px 0px 0px 10px;
   position: relative;
-
-  /*Font*/
-  font-family: "Times New Roman";
   
   /*Borders - (Optional)*/
   border-left: 8px solid #FF5733;
