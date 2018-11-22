@@ -26,9 +26,9 @@ I am doing my PhD studies under advisorship of Steve Marschner. I also work clos
 
 ---
 
-> **Ambient sound propagation**  
-> Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
-> *ACM Transactions on Graphics (SIGGRAPH Asia 2018)*  
+> Ambient sound propagation
+> **Zechen Zhang**, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
+> *ACM Transactions on Graphics (**SIGGRAPH Asia 2018**)*  
 [Paper](http://www.cs.cornell.edu/projects/ambientsound/SAsia-2018-ambient2.pdf)
 |
 [Project page](http://www.cs.cornell.edu/projects/ambientsound) 
