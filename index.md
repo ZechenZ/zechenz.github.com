@@ -6,7 +6,7 @@ title:
 
 ---
 
-#### Zechen Zhang
+### Zechen Zhang
 
 zz335 at cornell dot edu
 
