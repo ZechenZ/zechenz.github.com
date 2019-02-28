@@ -22,7 +22,7 @@ Signal processing
 
 I am doing my PhD studies under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/). 
 
-I am currently visiting interactive media group at [Microsoft Research Lab - Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/). 
+I am currently visiting interactive media group (IMG) at [Microsoft Research Lab - Redmond](https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/). 
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F7-xJ-lFabohOk8iR_vInc7314F38GcgjprXTWMlz5Qu0eqU3JYjJY22_f0SQln2eVbm7cqvWmnW6qqBqyoQLDnvhKmTA)
 
