@@ -5,6 +5,7 @@ title:
 <!--description: Minimal tutorial on making a simple website with GitHub Pages-->
 
 ---
+<meta http-equiv="refresh" content="0; url=http://www.cs.cornell.edu/~zz335/" />
 
 ### Zechen Zhang
 
