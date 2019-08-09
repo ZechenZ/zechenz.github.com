@@ -16,9 +16,9 @@ Cornell University
 
 Computer graphics 
 | 
+Speech and audio processing
+|
 Computational acoustics 
-| 
-Signal processing 
 
 I am doing my PhD studies under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/). 
 
