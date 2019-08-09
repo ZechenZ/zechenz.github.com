@@ -33,9 +33,9 @@ I am currently visiting interactive media group (IMG) at [Microsoft Research Lab
 > *ACM Transactions on Graphics (**SIGGRAPH Asia 2019**)*  
 [Paper](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture)
 |
-[Project page](http://www.cs.cornell.edu/projects/acoustictexture) 
+[Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
 | 
-[Headphone demo](http://www.cs.cornell.edu/projects/acoustictexture)
+[Headphone demo](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture)
 
 > Ambient sound propagation  
 > **Zechen Zhang**, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
