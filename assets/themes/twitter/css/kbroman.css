@@ -1,0 +1,29 @@
+.body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+code {
+  padding: 0;
+  font-size: 90%;
+  color: black;
+  background-color: white;
+  border: 0px solid white;
+}
+
+a code {
+  color: #08c;
+}
+
+blockquote{
+  padding: 0px 0px 0px 10px;
+  position: relative;
+  
+  /*Borders - (Optional)*/
+  border-left: 8px solid #FF5733;
+  border-right: 0px solid #FF5733;
+  
+}
+
+blockquote em{
+  font-style: italic;
+}
