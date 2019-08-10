@@ -10,9 +10,7 @@ title:
 
 zz335 at cornell dot edu
 
-Ph.D 
-| 
-Cornell University
+Ph.D, Cornell University
 
 Computer graphics 
 | 
