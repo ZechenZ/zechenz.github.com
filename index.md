@@ -8,6 +8,8 @@ title:
 
 ### Zechen Zhang
 
+zechenz dot math at gmail dot com
+
 zz335 at cornell dot edu
 
 Ph.D, Cornell University
