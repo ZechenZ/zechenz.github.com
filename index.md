@@ -18,7 +18,7 @@ Computational acoustics
 
 Ph.D, Cornell University
 
-I did my PhD studies under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
+I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F7-xJ-lFabohOk8iR_vInc7314F38GcgjprXTWMlz5Qu0eqU3JYjJY22_f0SQln2eVbm7cqvWmnW6qqBqyoQLDnvhKmTA)
 
