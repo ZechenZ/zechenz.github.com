@@ -6,7 +6,7 @@ title:
 
 ---
 
-### Zechen Zhang [ZZ]
+### Zechen Zhang
 
 zechenz dot math at gmail dot com
 
