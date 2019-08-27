@@ -27,11 +27,11 @@ I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell
 > Acoustic texture rendering for extended sources in complex scenes  
 > **Zechen Zhang**, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
 > *ACM Transactions on Graphics (**SIGGRAPH Asia 2019**)*  
-[Paper](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture)
+[Paper](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture/SAsia2019AcousticTexture.pdf)
 |
 [Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
 | 
-[Headphone demo](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture)
+[Headphone demo](https://youtu.be/kJrdjVx76jQ)
 
 > Ambient sound propagation  
 > **Zechen Zhang**, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
