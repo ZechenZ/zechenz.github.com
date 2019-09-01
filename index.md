@@ -44,5 +44,4 @@ I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell
 
 > Particle-in-Cell Simulations of Fast Magnetic Reconnection in Laser-Plasma Interaction  
 > **Zhang Ze-Chen**, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
-> *Chinese Physics Letters*  
-*I studied topological change of magnetic fields when I was an undergrad*
+> ***Chinese Physics Letters***  
