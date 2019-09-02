@@ -16,7 +16,7 @@ Speech and audio processing
 |
 Computational acoustics 
 
-Ph.D, Cornell University
+Ph.D. Cornell University
 
 I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
