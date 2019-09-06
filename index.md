@@ -8,7 +8,7 @@ title:
 
 ### Zechen Zhang
 
-zechenz dot math at gmail dot com
+Ph.D. Cornell University
 
 Computer graphics 
 | 
@@ -16,9 +16,9 @@ Speech and audio processing
 |
 Computational acoustics 
 
-Ph.D. Cornell University
-
 I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
+
+zechenz **dot** math **at** gmail **dot** com
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
 
