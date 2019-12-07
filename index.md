@@ -46,3 +46,8 @@ zechen [dot] zh [at] gmail [dot] com
 > Particle-in-Cell Simulations of Fast Magnetic Reconnection in Laser-Plasma Interaction  
 > **Zhang Ze-Chen**, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
 > ***Chinese Physics Letters***  
+
+---
+![Feynman EM note](FeynmanEM.jpg)
+
+*Photo credit: [feynmanlectures.caltech.edu](feynmanlectures.caltech.edu)*
