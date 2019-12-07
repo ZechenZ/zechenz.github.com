@@ -48,6 +48,6 @@ zechen [dot] zh [at] gmail [dot] com
 > ***Chinese Physics Letters***  
 
 ---
-![Feynman EM note](_figure/FeynmanEM.jpg)
+![Feynman EM note](https://www.feynmanlectures.caltech.edu/img/FLP_II/f18-00/f18-00.jpg)
 
 *Photo credit: [feynmanlectures.caltech.edu](feynmanlectures.caltech.edu)*
