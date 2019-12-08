@@ -47,7 +47,6 @@ zechen [dot] zh [at] gmail [dot] com
 > **Zhang Ze-Chen**, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
 > ***Chinese Physics Letters***  
 
----
 <!--
 ![Feynman EM note](https://github.com/zechenz/zechenz.github.io/blob/master/_figure/FeynmanEM.jpg?raw=true)
 
