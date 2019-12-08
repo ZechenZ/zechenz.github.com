@@ -15,7 +15,7 @@ a code {
 }
 
 blockquote{
-  padding: 0px 0px 0px 0px;
+  padding: 0px 0px 0px 10px;
   position: relative;
   
   /*Borders - (Optional)*/
