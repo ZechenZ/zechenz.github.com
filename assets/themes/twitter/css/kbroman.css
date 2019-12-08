@@ -15,12 +15,13 @@ a code {
 }
 
 blockquote{
-  padding: 0px 0px 0px 10px;
+  padding: 0px 0px 0px 0px;
   position: relative;
   
+  background: gray;
   /*Borders - (Optional)*/
-  border-left: 8px solid #0c0c0c;
-  border-right: 0px solid #0c0c0c;
+  border-left: 0px solid #FFFFFF;
+  border-right: 0px solid #FFFFFF;
   
 }
 
