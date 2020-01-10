@@ -8,6 +8,10 @@ title:
 
 ### Zechen Zhang
 
+I am working as a researcher at [Wormpex (BianLiFeng) AI research](https://research.bianlifeng.com) at Bellevue, WA.
+| Research internship for 2020 summer: feel free to drop me an email if you are interested in a summer research internship with me, on speech processing or computer graphics. |
+| --- |
+
 Ph.D. Cornell University
 
 Computer graphics 
