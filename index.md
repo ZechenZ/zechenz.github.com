@@ -9,7 +9,7 @@ title:
 ### Zechen Zhang
 
 I am working as a researcher at [Wormpex (BianLiFeng) AI research](https://research.bianlifeng.com), located at Bellevue, WA.
-<div style="background-color:#cccccc; text-align:middle; vertical-align: middle; padding:10px 15px;"> <p><b>Internship of 2020 summer: feel free to drop me an email if you are interested in a summer research internship with me, on speech processing and computer graphics.</b></p>  </div>
+<div style="background-color:#cccccc; text-align:middle; vertical-align: middle; padding:10px 15px;"> <p><b>Internship opportunity for 2020 summer: feel free to drop me an email if you are interested in a summer research internship with me, on speech processing and computer graphics.</b></p>  </div>
 
 Ph.D. Cornell University
 
