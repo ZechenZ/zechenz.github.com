@@ -8,8 +8,6 @@ title:
 
 ### Zechen Zhang
 
-I am working as a researcher at [Wormpex (BianLiFeng) AI research](https://research.bianlifeng.com), located at Bellevue, WA.
-
 Ph.D. Cornell University
 
 Computer graphics 
