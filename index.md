@@ -25,7 +25,7 @@ zechen [dot] zh [at] gmail [dot] com
 ---
 
 > Reciprocal Wave Field Coding for Directional Sources and Listener in Interactive Sound Propagation <br/> 
-> Chakravarty R. Alla Chaitanya, Nikunj Raghuvanshi, Keith W. Godin, **Zechen Zhang**, Derek Nowrouzezahrai, John M. Snyder <br/> 
+> Chakravarty R. Alla Chaitanya <sup>\*</sup> , Nikunj Raghuvanshi <sup>\*<\sup> , Keith W. Godin, **Zechen Zhang**, Derek Nowrouzezahrai, John M. Snyder <br/> 
 > *ACM Transactions on Graphics (**SIGGRAPH 2020**)*  
 
 > Acoustic texture rendering for extended sources in complex scenes  
