@@ -38,7 +38,7 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 [Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
 | 
 [Headphone demo](https://youtu.be/kJrdjVx76jQ)  
-*[Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/).* 
+[Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/). 
 
 **Ambient sound propagation**  
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
