@@ -23,7 +23,6 @@ I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
   
 <br/>
-<br/> 
 
 #### PUBLICATIONS
 
