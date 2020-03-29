@@ -38,7 +38,7 @@ I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell
 [Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
 | 
 [Headphone demo](https://youtu.be/kJrdjVx76jQ)  
-***Please refer to [Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) for other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/).***
+*Please refer to [Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) for other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/).*
 
 > **Ambient sound propagation**  
 > Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
