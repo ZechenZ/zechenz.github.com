@@ -18,11 +18,12 @@ Computational acoustics
 
 I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
-zechen [dot] zh [at] gmail [dot] com
+<zechen.zh@gmail.com>
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
   
-  
+<br/>
+<br/> 
 
 #### PUBLICATIONS
 
