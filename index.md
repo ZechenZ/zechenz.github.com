@@ -6,7 +6,7 @@ title:
 
 ---
 
-### Zechen Zhang
+### ZECHEN ZHANG
 
 Ph.D. Cornell University
 
@@ -22,7 +22,8 @@ zechen [dot] zh [at] gmail [dot] com
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
 
-#### PUBLICATIONS
+
+### PUBLICATIONS
 ---
 
 > **Reciprocal Wave Field Coding for Directional Sources and Listener in Interactive Sound Propagation**   
