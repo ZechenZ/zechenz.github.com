@@ -22,6 +22,8 @@ zechen [dot] zh [at] gmail [dot] com
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
 
+**PUBLICATIONS**
+
 ---
 
 > **Reciprocal Wave Field Coding for Directional Sources and Listener in Interactive Sound Propagation**   
@@ -51,8 +53,3 @@ zechen [dot] zh [at] gmail [dot] com
 > Zhang Ze-Chen, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
 > *Chinese Physics Letters*  
 
-<!--
-![Feynman EM note](https://github.com/zechenz/zechenz.github.io/blob/master/_figure/FeynmanEM.jpg?raw=true)
-
-*Photo credit: [feynmanlectures.caltech.edu](https://feynmanlectures.caltech.edu)*
--->
