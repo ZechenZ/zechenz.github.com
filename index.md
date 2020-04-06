@@ -21,4 +21,31 @@ I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell
 <zechen.zh@gmail.com>
 
 [Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
+  
+<br/>
+
+#### PUBLICATIONS
+
+**Acoustic texture rendering for extended sources in complex scenes**  
+Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
+*ACM Transactions on Graphics (SIGGRAPH Asia 2019)*  
+[Paper](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture/SAsia2019AcousticTexture.pdf)
+|
+[Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
+| 
+[Headphone demo](https://youtu.be/kJrdjVx76jQ)  
+[Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/). 
+
+**Ambient sound propagation**  
+Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
+*ACM Transactions on Graphics (SIGGRAPH Asia 2018)*  
+[Paper](http://www.cs.cornell.edu/projects/ambientsound/SAsia-2018-ambient2.pdf)
+|
+[Project page](http://www.cs.cornell.edu/projects/ambientsound) 
+| 
+[Headphone demo](https://vimeo.com/292495561)
+
+**Particle-in-Cell Simulations of Fast Magnetic Reconnection in Laser-Plasma Interaction**  
+Zhang Ze-Chen, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
+*Chinese Physics Letters*  
 
