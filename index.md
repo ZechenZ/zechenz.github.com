@@ -27,7 +27,7 @@ I did my PhD under the advisorship of [Prof. Steve Marschner](https://www.cs.cor
 #### PUBLICATIONS
 
 **Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**  
-Chakravarty R. Alla Chaitanya<sup>\*</sup>, Nikunj Raghuvanshi<sup>\*</sup>, Keith W. Godin, Zechen Zhang, Derek Nowrouzezahrai, John M. Snyder  
+Chakravarty R. Alla Chaitanya<sup>\*</sup>, Nikunj Raghuvanshi<sup>\*</sup>, Keith Godin, Zechen Zhang, Derek Nowrouzezahrai, John Snyder  
 *ACM Transactions on Graphics (SIGGRAPH 2020)*  
 [Paper](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SourceAndListenerDirectivity.pdf)
 |
