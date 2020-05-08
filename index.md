@@ -26,7 +26,14 @@ I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell
 
 #### PUBLICATIONS
 
-**Acoustic texture rendering for extended sources in complex scenes**  
+**Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**
+Chakravarty R. Alla Chaitanya<sup>\*</sup>, Nikunj Raghuvanshi<sup>\*</sup>, Keith W. Godin, Zechen Zhang, Derek Nowrouzezahrai, John M. Snyder 
+*ACM Transactions on Graphics (SIGGRAPH 2020)*  
+[Project](https://www.microsoft.com/en-us/research/publication/directional-sources-and-listeners-in-interactive-sound-propagation-using-reciprocal-wave-field-coding/)
+|
+[DOI](https://doi.org/10.1145/3386569.3392459)
+
+**Acoustic Texture Rendering for Extended Sources in Complex Scenes**  
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
 *ACM Transactions on Graphics (SIGGRAPH Asia 2019)*  
 [Paper](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture/SAsia2019AcousticTexture.pdf)
@@ -36,7 +43,7 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 [Headphone demo](https://youtu.be/kJrdjVx76jQ)  
 [Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/). 
 
-**Ambient sound propagation**  
+**Ambient Sound Propagation**  
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
 *ACM Transactions on Graphics (SIGGRAPH Asia 2018)*  
 [Paper](http://www.cs.cornell.edu/projects/ambientsound/SAsia-2018-ambient2.pdf)
