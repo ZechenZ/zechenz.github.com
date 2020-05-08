@@ -16,7 +16,7 @@ Speech and audio processing
 |
 Computational acoustics 
 
-I did my PhD under advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
+I did my PhD under the advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
 <zechen.zh@gmail.com>
 
