@@ -33,7 +33,7 @@ Chakravarty R. Alla Chaitanya<sup>\*</sup>, Nikunj Raghuvanshi<sup>\*</sup>, Kei
 |
 [Project page](https://www.microsoft.com/en-us/research/publication/directional-sources-and-listeners-in-interactive-sound-propagation-using-reciprocal-wave-field-coding/)
 |
-[DOI](https://doi.org/10.1145/3386569.3392459)
+[DOI](https://dx.doi.org/10.1145/3386569.3392459)
 
 **Acoustic Texture Rendering for Extended Sources in Complex Scenes**  
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
@@ -42,7 +42,9 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 |
 [Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
 | 
-[Headphone demo](https://youtu.be/kJrdjVx76jQ)  
+[Headphone demo](https://youtu.be/kJrdjVx76jQ)
+|
+[DOI](http://dx.doi.org/10.1145/3355089.3356566)  
 [Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other related publications from [Microsoft Research](https://www.microsoft.com/en-us/research/). 
 
 **Ambient Sound Propagation**  
@@ -53,6 +55,8 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 [Project page](http://www.cs.cornell.edu/projects/ambientsound) 
 | 
 [Headphone demo](https://vimeo.com/292495561)
+|
+[DOI](http://dx.doi.org/10.1145/3272127.3275100)
 
 **Particle-in-Cell Simulations of Fast Magnetic Reconnection in Laser-Plasma Interaction**  
 Zhang Ze-Chen, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
