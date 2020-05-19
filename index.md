@@ -11,10 +11,12 @@ title:
 Ph.D. Cornell University
 
 Computer graphics 
-| 
+|
+Computational acoustics
+|
 Speech and audio processing
 |
-Computational acoustics 
+Coherence
 
 I did my PhD under the advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
