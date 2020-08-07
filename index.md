@@ -10,9 +10,9 @@ title:
 
 Ph.D. Cornell University
 
-Computer graphics 
+Computer Graphics 
 |
-Speech and audio processing
+Speech and Audio Processing
 
 I did my PhD under the advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
