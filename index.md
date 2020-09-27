@@ -30,7 +30,9 @@ Chakravarty R. Alla Chaitanya<sup>\*</sup>, Nikunj Raghuvanshi<sup>\*</sup>, Kei
 *ACM Transactions on Graphics (SIGGRAPH 2020)*  
 [Paper](https://www.microsoft.com/en-us/research/uploads/prod/2020/05/SourceAndListenerDirectivity.pdf)
 |
-[Project page](https://www.microsoft.com/en-us/research/publication/directional-sources-and-listeners-in-interactive-sound-propagation-using-reciprocal-wave-field-coding/)
+[Project Page](https://www.microsoft.com/en-us/research/publication/directional-sources-and-listeners-in-interactive-sound-propagation-using-reciprocal-wave-field-coding/)
+|
+[Headphone Demo](https://youtu.be/pvWlCQGZpz4)
 |
 [DOI](https://dx.doi.org/10.1145/3386569.3392459)
 
@@ -39,9 +41,9 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 *ACM Transactions on Graphics (SIGGRAPH Asia 2019)*  
 [Paper](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture/SAsia2019AcousticTexture.pdf)
 |
-[Project page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
+[Project Page](http://www.cs.cornell.edu/projects/ambientsound/acoustictexture) 
 | 
-[Headphone demo](https://youtu.be/kJrdjVx76jQ)
+[Headphone Demo](https://youtu.be/kJrdjVx76jQ)
 |
 [DOI](http://dx.doi.org/10.1145/3355089.3356566)  
 [Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other relevant publications from [Microsoft Research](https://www.microsoft.com/en-us/research/). 
@@ -51,9 +53,9 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 *ACM Transactions on Graphics (SIGGRAPH Asia 2018)*  
 [Paper](http://www.cs.cornell.edu/projects/ambientsound/SAsia-2018-ambient2.pdf)
 |
-[Project page](http://www.cs.cornell.edu/projects/ambientsound) 
+[Project Page](http://www.cs.cornell.edu/projects/ambientsound) 
 | 
-[Headphone demo](https://vimeo.com/292495561)
+[Headphone Demo](https://vimeo.com/292495561)
 |
 [DOI](http://dx.doi.org/10.1145/3272127.3275100)
 
