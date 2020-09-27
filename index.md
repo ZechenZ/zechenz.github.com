@@ -22,8 +22,6 @@ I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.c
 
 [DBLP entry](https://dblp.uni-trier.de/pid/202/5537.html)
   
-<br/>
-
 #### PUBLICATIONS
 
 **Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**  
