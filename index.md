@@ -11,19 +11,18 @@ title:
 Ph.D. Cornell University
 
 Computer Graphics 
-|
+| 
 Speech and Audio Processing
 
 I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
 <zechen.zh@gmail.com>
 
-[Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate)
-|
+[Google scholar profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
+| 
 [DBLP entry](https://dblp.uni-trier.de/pid/202/5537.html)
 
-<br/>
-  
+
 #### PUBLICATIONS
 
 **Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**  
