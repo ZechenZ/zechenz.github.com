@@ -20,7 +20,7 @@ I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.c
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
 | 
-[DBLP Entry](https://dblp.uni-trier.de/pid/202/5537.html)
+[DBLP Entry](https://dblp.org/pid/202/5537-1.html)
 
 <br/>
 #### PUBLICATIONS
