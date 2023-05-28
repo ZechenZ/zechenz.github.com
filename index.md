@@ -10,13 +10,15 @@ title:
 
 Ph.D. Cornell University
 
+Applied Machine Learning
+|
 Computer Graphics 
 | 
 Speech and Audio Processing
 
 I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
-<zechen.zh@gmail.com>
+<zz335@cornell.edu>
 
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
 | 
