@@ -21,6 +21,8 @@ I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.c
 [DBLP Entry](https://dblp.org/pid/202/5537-1.html)
 
 <br/>
+
+<!---
 #### PUBLICATIONS
 
 **Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**  
@@ -61,3 +63,4 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 Zhang Ze-Chen, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
 *Chinese Physics Letters*  
 
+-->
