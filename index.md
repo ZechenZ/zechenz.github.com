@@ -14,13 +14,10 @@ I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.c
 
 <zz335@cornell.edu>
 
-[Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
-| 
-[DBLP Entry](https://dblp.org/pid/202/5537-1.html)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
 
 <br/>
 
-<!---
 #### PUBLICATIONS
 
 **Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**  
@@ -60,5 +57,3 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 **Particle-in-Cell Simulations of Fast Magnetic Reconnection in Laser-Plasma Interaction**  
 Zhang Ze-Chen, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
 *Chinese Physics Letters*  
-
--->
