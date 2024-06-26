@@ -41,7 +41,6 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 [Headphone Demo](https://youtu.be/kJrdjVx76jQ)
 |
 [DOI](http://dx.doi.org/10.1145/3355089.3356566)  
-[Project Triton](https://www.microsoft.com/en-us/research/project/project-triton/#!publications) includes other relevant publications from [Microsoft Research](https://www.microsoft.com/en-us/research/). 
 
 **Ambient Sound Propagation**  
 Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner  
