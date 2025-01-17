@@ -21,7 +21,7 @@ I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.c
 
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
 
-<!---
+<!--
 **Directional Sources and Listeners in Interactive Sound Propagation using Reciprocal Wave Field Coding**  
 Chakravarty R. Alla Chaitanya<sup>\*</sup>, Nikunj Raghuvanshi<sup>\*</sup>, Keith Godin, Zechen Zhang, Derek Nowrouzezahrai, John Snyder  
 *ACM Transactions on Graphics (SIGGRAPH 2020)*  
@@ -54,8 +54,8 @@ Zechen Zhang, Nikunj Raghuvanshi, John Snyder, Steve Marschner
 [Headphone Demo](https://vimeo.com/292495561)
 |
 [DOI](http://dx.doi.org/10.1145/3272127.3275100)
--->
 
 **Particle-in-Cell Simulations of Fast Magnetic Reconnection in Laser-Plasma Interaction**  
 Zhang Ze-Chen, Lu Quan-Ming, Dong Quan-Li, Lu San, Huang Can, Wu Ming-Yu, Sheng Zheng-Ming, Wang Shui, Zhang Jie  
 *Chinese Physics Letters*  
+-->
