@@ -13,12 +13,9 @@ Ph.D. Cornell University
 I did my Ph.D. under the advisorship of [Prof. Steve Marschner](https://www.cs.cornell.edu/~srm/).  
 
 <zz335@cornell.edu>
-
-
 <br/>
 
 #### PUBLICATIONS
-
 [Google Scholar](https://scholar.google.com/citations?hl=en&user=RBDHu9UAAAAJ&view_op=list_works&sortby=pubdate) 
 
 <!--
